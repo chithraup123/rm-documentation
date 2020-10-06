@@ -1,14 +1,13 @@
 ---
 layout: page
+title: Home
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## General Terms
 
-## Current Interests and Projects:
-
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+1. Seller buys product from a manufacturer using purchase by means of "Purchase Order". 
+2. The Seller Ordered quantities in bulk is shipped through the process terming "Inventory Shipment". 
+3. Seller fills the various products to different warehouse house (Storage spaces) by the term "Warehouse Shipment".
+4. The "Fulfillment Services" : FBA-US (Fulfillment By Amazon),FBA-EU and Shipwire 
+	These are the fulfillment services that ships the customer orders

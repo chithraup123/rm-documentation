@@ -2,11 +2,11 @@
 - title: Home
   url: /
 
-- title: Presentations
-  url: /presentations/
+- title: Application
+  url: /application/
 
-- title: Resume
-  url: /resume/
+- title: Architecture and Diagrams
+  url: /architecture/
 
-- title: Blog
-  url: /blog/
+- title: Set up and Installation
+  url: /application/
